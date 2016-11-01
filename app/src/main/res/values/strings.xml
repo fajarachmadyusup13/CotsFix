@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesCOTSFix</string>
+    <string name="str_tambah_data">Tambah Data</string>
+    <string name="sedang_memuat">Sedang Memuat</string>
+</resources>
